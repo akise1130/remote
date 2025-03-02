@@ -6,7 +6,7 @@
     <title>Document</title>
 </head>
 <body>
-    <h1>Hellow World!</h1>
+    <h1>Hello World</h1>
     <p>結界戦線</p>
 </body>
-</html> 
+</html>
